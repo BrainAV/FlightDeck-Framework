@@ -5,7 +5,8 @@ PERSONA.md
 <PROJECT_INFO>
 **Name**: FlightDeck Framework
 **Description**: A modular platform for building web-based DJ consoles and audio instrument panels. Powered by Brain AV and AVDJ.ca.
-**Repository**: https://github.com/jasonbra1n/FlightDeck-Framework
+**Repository**: https://github.com/BrainAV/FlightDeck-Framework
+
 </PROJECT_INFO>
 
 <TECH_STACK>

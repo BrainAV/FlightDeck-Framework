@@ -22,6 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - **Refactor**: Extracted `dn-1000f` inline code into `style.css` and `app.js` for better maintainability.
+- **Repository**: Moved repository to new organization location: `https://github.com/BrainAV/FlightDeck-Framework`.
 
 ### Removed
 - **Cleanup**: Removed legacy `consoles/dj-console_early_version/`.
